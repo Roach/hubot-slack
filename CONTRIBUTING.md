@@ -4,13 +4,13 @@
 
 ## Before Contributing
 
-Before contributing, please read our [Code of Conduct](./CODE_OF_CONDUCT.md). We take it very seriously, and expect that you will as well.
+Before contributing, please read our [Code of Conduct](../blob/master/CODE_OF_CONDUCT.md). We take it very seriously, and expect that you will as well.
 
 ## New Issues
 
 Before opening a new issue, please consider:
 
-  - Reading [the documentation](./README.md) and [the changelog](./README.md) first.
+  - Reading [the documentation](../blob/master/README.md) and [the changelog](../blob/master/README.md) first.
   - Searching for any related issues and avoid creating duplicated issues.
   - Adding details, diagnoses, screenshots or any type of useful information in existing issues, even if they are marked as closed. The team will still review it.
   - Taking the time to think of a solution and [**open a pull request**](#new-pull-requests) for either improving the documentation, fixing a bug or suggesting a feature.
